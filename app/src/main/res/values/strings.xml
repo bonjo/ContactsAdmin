@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Contacts Sample</string>
+    <string name="hintFirstName">First Name</string>
+    <string name="hintLastName">Last Name</string>
+    <string name="btnOk">Save</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="title_activity_admin">Manage Contact</string>
+</resources>
